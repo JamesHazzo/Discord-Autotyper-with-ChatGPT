@@ -1,0 +1,11 @@
+TalkMaster AI Full Setup
+
+Open TalkMaster 1.8
+
+If the SmarScreen window pops up, click on "More info" and then click "Run".
+
+Press the "Start" button, and our software's functionality will be fully operational!
+
+
+
+

